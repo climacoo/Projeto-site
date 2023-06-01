@@ -1,0 +1,137 @@
+/* Estilos para o cabeçalho */
+header {
+    background-color: #27374D;
+    color: #fff;
+    position: relative;
+    padding: 20px;
+    display: fixed;
+    margin: 0;
+  }
+  body{
+    background-color: #DDE6ED;
+  }
+  .titulo{
+    justify-content: center;
+    background-color: #9DB2BF;
+  }
+  .logo{
+    margin: 20px;
+  }
+  header h1 {
+    margin: 0;
+  }
+  .bola{
+    height: 225px;
+    margin-left: 400px;
+    margin-top: 10px;
+  }
+  .chut{
+    width: 225px;
+    margin-top: 20px;
+    margin-left: 400px;
+   }
+
+.fotogrande{
+  width: 90px;
+  margin-top: 90px;
+  margin-left: 380px;
+}
+.foto1{
+  width: 90px;
+  margin-top: -500px;
+  margin-left: 40px;
+}
+.foto2{
+  width: 90px;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.foto3{
+  width: 90px;
+  margin-top: -490px;
+  margin-left: 1100px;
+}
+.foto4{
+  width: 90px;
+  margin-top: 60px;
+  margin-left: 1100px;
+}
+
+
+.fotogrande2{
+    width: 90px;
+    margin-top: 170px;
+    margin-left: 380px;
+  }
+.foto01{
+  width: 90px;
+  margin-top: -550px;
+  margin-left: 40px;
+}
+.foto02{
+  width: 90px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.foto03{
+  width: 90px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.foto04{
+  width: 90px;
+  margin-top: -750px;
+  margin-left: 1100px;
+}
+.foto05{
+  width: 90px;
+  margin-top: 20px;
+  margin-left: 1100px;
+}
+.foto06{
+  width: 30px;
+  margin-top: 20px;
+  margin-left: 1000px;
+}
+
+
+
+
+  .img{
+    margin-right: 400px;
+    margin-top: 50px;
+
+  }
+ 
+  nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-items: 20px;
+    justify-content: end;
+    justify-content: end;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Estilos para o conteúdo principal */
+  main {
+    padding: 20px;
+  }
+  
+  /* Estilos para o rodapé */
+  footer {
+    background-color: #27374D;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }

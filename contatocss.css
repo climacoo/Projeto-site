@@ -1,0 +1,71 @@
+/* Estilos para o cabeçalho */
+header {
+    background-color: #27374D;
+    color: #fff;
+    position: relative;
+    padding: 20px;
+    display: fixed;
+    margin: 0;
+  }
+  body{
+    background-color: #DDE6ED;
+  }
+  .titulo{
+    justify-content: center;
+    background-color: #9DB2BF;
+  }
+  .logo{
+    margin: 20px;
+  }
+  header h1 {
+    margin: 0;
+  }
+
+  .redes{
+    width: 20px;
+    text-align: center;
+    margin-left: 200px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+  nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-items: 20px;
+    justify-content: end;
+    justify-content: space-between 80px;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Estilos para o conteúdo principal */
+  main {
+    padding: 20px;
+  }
+  
+  /* Estilos para o rodapé */
+  footer {
+    background-color: #27374D;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
